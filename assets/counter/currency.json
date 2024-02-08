@@ -1,0 +1,103 @@
+[
+  {
+    "country": "Indonesia",
+    "currencies": [
+      {
+        "type": "paper",
+        "label": "Paper",
+        "values": [
+          {
+            "img": "https://2.bp.blogspot.com/-anGzmuNUo2M/WLMv76JcK9I/AAAAAAAAcBU/w_mLHrawdn0nwR0l8sore-YDd0XlkkmOACLcB/s1600/seratus%2Bribu%2Brupiah%2B2004%2Bbelakang.jpg",
+            "title": "Rp 100.000",
+            "value": 100000,
+            "qty": null,
+            "amount": null
+          },
+          {
+            "img": "https://banknotenews.com/wp-content/uploads/2020/09/Indonesia_BI_750000_rupiah_2020.00.00_B616a_PNL_AAK_043968_f-695x299.jpg",
+            "title": "Rp 75.000",
+            "value": 75000,
+            "qty": null,
+            "amount": null
+          },
+          {
+            "img": "https://i.pinimg.com/originals/9b/8f/db/9b8fdb318344b7afe59766336f15e587.png",
+            "title": "Rp 50.000",
+            "value": 50000,
+            "qty": null,
+            "amount": null
+          },
+          {
+            "img": "https://th.bing.com/th/id/R.345701870d16b51856602bb0452d2e54?rik=O0ymaQQyYm%2f%2f%2bA&riu=http%3a%2f%2fii.mypivots.com%2fbanknotes%2fidr-20000-indonesian-rupiahs-2.jpg&ehk=O4%2byKLTL954fDaIN6%2b1MeD3rnUfnAFKFJhhdn2C3VoA%3d&risl=&pid=ImgRaw&r=0",
+            "title": "Rp 20.000",
+            "value": 20000,
+            "qty": null,
+            "amount": null
+          },
+          {
+            "img": "https://www.aswata.co.id/images/10000-2016.jpg",
+            "title": "Rp 10.000",
+            "value": 10000,
+            "qty": null,
+            "amount": null
+          },
+          {
+            "img": "https://banknotenews.com/wp-content/uploads/2019/12/indonesia_bi_5000_rupiah_2018.00.00_b611d_p156_f.jpg",
+            "title": "Rp 5.000",
+            "value": 5000,
+            "qty": null,
+            "amount": null
+          },
+          {
+            "img": "https://www.foreigncurrencyandcoin.com/wp-content/uploads/2019/01/products-32551.jpg",
+            "title": "Rp 2.000",
+            "value": 2000,
+            "qty": null,
+            "amount": null
+          },
+          {
+            "img": "https://banknotenews.com/wp-content/uploads/2019/12/indonesia_bi_1000_rupiah_2018.00.00_b609d_p154_oaj_1380101_f.jpg",
+            "title": "Rp 1.000",
+            "value": 1000,
+            "qty": null,
+            "amount": null
+          }
+        ]
+      },
+      {
+        "type": "coins",
+        "label": "Coins",
+        "values": [
+          {
+            "img": "https://cdn.kibrispdr.org/data/32/contoh-benda-yang-berbentuk-lingkaran-34.png",
+            "title": "Rp 1.000",
+            "value": 1000,
+            "qty": null,
+            "amount": null
+          },
+          {
+            "img": "https://th.bing.com/th/id/R.da264afe3380ee72b843b68c906f9fea?rik=9NLHdiXCBvBejg&riu=http%3a%2f%2f3.bp.blogspot.com%2f-n0RVpZwMquk%2fUWACWBL1VhI%2fAAAAAAAAAO4%2fQW-PgjakBR8%2fs1600%2f500%2bRupiah.png&ehk=q0rJTsbbiL4JhBsR%2f7CnAktPsr%2b%2bwZ8%2f1O2DXUG1JE4%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1",
+            "title": "Rp 500",
+            "value": 500,
+            "qty": null,
+            "amount": null
+          },
+          {
+            "img": "https://en.numista.com/catalogue/photos/indonesie/350-270.jpg",
+            "title": "Rp 200",
+            "value": 200,
+            "qty": null,
+            "amount": null
+          },
+          {
+            "img": "https://stickerly.pstatic.net/sticker_pack/HRN1z8Zh19ZK47A6ESlhJQ/DAGQCM/22/653b14f3-f4aa-43f6-b018-f23344e74b28.png",
+            "title": "Rp 100",
+            "value": 100,
+            "qty": null,
+            "amount": null
+          }
+        ]
+      }
+    ]
+  }
+]
